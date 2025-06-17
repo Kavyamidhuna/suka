@@ -1,0 +1,2 @@
+a=midhuna
+print(a)
